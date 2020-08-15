@@ -1,0 +1,9 @@
+{
+    "name": "TransparentDiscord",
+    "description": "A transparent discord theme. Glasscord needed!",
+    "version": "0.0.1",
+    "author": "Sealhome#0001",
+    "theme": "TransparentDiscord.css",
+    "consent": "false",
+    "license": "unknown"
+}

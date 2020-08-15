@@ -1,0 +1,4 @@
+@import url(https://raw.githack.com/SealDev/TransparentD/master/theme.css);
+:root{
+   --glasscord-win-blur: blurbehind; /*  There are 3 different modes: transparent, blurbehind & acrylic  */
+}
